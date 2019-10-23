@@ -2,3 +2,4 @@ this is first file
 updated
 updated from github
 for git pull
+changes for smart git
